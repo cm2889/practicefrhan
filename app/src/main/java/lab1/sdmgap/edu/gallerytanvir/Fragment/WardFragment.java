@@ -38,7 +38,7 @@ public class WardFragment extends Fragment {
 
     private  final String word_details []={
 
-            "fdjfkl",
+            "",
             "ksdfljsdklf",
             "ajkdlfkl",
             "sfjjsdlkf"

@@ -20,15 +20,13 @@ public class GalleryActivity extends AppCompatActivity {
     private Toolbar toolbar;
 
     private static String[] imageLinks = {
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Training-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Platepositive-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Outbound-Support-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/IT-Services-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Customer-Help-Desk-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Call-Center-service-1.pnghttps://wallpapercave.com/wp/wp2553957.jpg",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Billing-and-Coding-service-1.png",
-            "http://www.digicontechnologies.com/wp-content/uploads/2017/07/Back-Office-Support-service-1.png"
-
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3KkVFbbKYbuLkDbZwQmhcEwD1nNau8ycQy8f_xQ1GarxVNk8",
+            "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/news/images/faruk2.jpg?itok=CJSRJmLZ",
+            "https://i.ytimg.com/vi/6iIGxLotrzI/hqdefault.jpg",
+            "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/farooque_4.jpg?itok=HcqAj9if",
+            "https://uepv.ru/go.php?https://i.ytimg.com/vi/WATK0VqV8I0/hqdefault.jpg",
+            "https://i.ytimg.com/vi/YfC9b-v7V6w/maxresdefault.jpg",
+            "http://www.newagebd.com/files/records/news/201710/26513_12.jpg"
 
     };
 
